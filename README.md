@@ -23,6 +23,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YadneshTeli&icon=10&color=13)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=YadneshTeli&color=blueviolet&style=flat-square&label=Profile+Views)]
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YadneshTeli) 
