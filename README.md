@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing a product.<br>👯 I’m looking to collaborate on any full-stack web & app projects.<br>🤝 I’m looking for help with pursuing Web3 & AI/ML.<br>🌱 I’m currently learning DSA, MERN, Next.js, Flutter, UI/UX.<br>💬 Ask me about tips to save time in developing a project.<br>⚡ Fun fact is I tend to overcommit and overengineer stuff.
+🔭 I’m currently developing a product.<br>👯 I look forward to collaborating on any full-stack web & app projects.<br>🤝 I’m looking for help with pursuing Web3 & AI/ML.<br>🌱 I’m currently learning DSA, MERN, Next.js, Flutter, UI/UX.<br>💬 Ask me about tips to save time in developing a project.<br>⚡ Fun fact is, I tend to overcommit and overengineer stuff.
 
 
 ## 🌐 Socials:
