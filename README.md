@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently developing a product.<br>👯 I look forward to collaborating on any full-stack web & app projects.<br>🤝 I’m looking for help with pursuing Web3 & AI/ML.<br>🌱 I’m currently learning DSA, MERN, Next.js, Flutter, UI/UX.<br>💬 Ask me about tips to save time in developing a project.<br>⚡ Fun fact is, I tend to overcommit and overengineer stuff.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yadneshteli_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yadneshteli) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yadneshteli) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yadnesht909) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YadneshTeli) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YadneshTeli) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Yadnesh-Teli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadneshteli.dev@gmail.com) 
 
