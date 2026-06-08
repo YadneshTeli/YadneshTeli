@@ -35,14 +35,23 @@ I build practical web and mobile products with clean UI, reliable APIs, and fast
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,dart,react,nextjs,tailwind,flutter,nodejs,express,fastapi,dotnet,mongodb,postgres,mysql,supabase,firebase,docker,githubactions,figma,postman&perline=11" alt="Tech stack icons" />
 </p>
 
-## Highlights
+## GitHub Stats
 
 <div align="center">
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/2563EB/YadneshTeli)
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=YadneshTeli&theme=default&hide_border=false&border_color=E4E4E7&bg_color=FAFAFA&include_all_commits=true&count_private=true&title_color=18181B&text_color=3F3F46&icon_color=2563EB" alt="GitHub stats" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadneshTeli&theme=default&hide_border=false&border_color=E4E4E7&bg_color=FAFAFA&include_all_commits=true&count_private=true&layout=compact&title_color=18181B&text_color=3F3F46" alt="Top languages" />
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=YadneshTeli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YadneshTeli&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=YadneshTeli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YadneshTeli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=YadneshTeli&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -61,6 +70,5 @@ I build practical web and mobile products with clean UI, reliable APIs, and fast
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadneshteli)
 [![Send an Email](https://img.shields.io/badge/Send%20an%20Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadneshteli.dev@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YadneshTeli&color=2563EB&style=flat-square&label=Profile+Views)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=YadneshTeli&color=2563EB&style=flat-square&label=Profile+Views)](https://visitcount.itsvg.in)
 </div>
